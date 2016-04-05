@@ -1,0 +1,28 @@
+name: Finn Koehler
+favicon: null
+layout_spectrum: 0.7434870095457882
+typography_spectrum: 0.26201813155785203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2208228486124426
+  lightness: 0.27524969610385597
+  saturation: 0.6025679572485387
+  rhythmicContrast: 0.13013670151121914
+purpose: []
