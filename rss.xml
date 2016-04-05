@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Finn Koehler]]></title>
         <description><![CDATA[Finn Koehler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/finn-koehler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 11:18:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 11:28:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/finn-koehler/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Give it a try!]]></title>
-            <description><![CDATA[<h1>Give it a try!</h1>]]></description>
-            <link>undefinedgive-it-a-try/index.html</link>
+            <description><![CDATA[<article><h1>Give it a try!</h1><p>This is my very first test of The Grid, an AI that builds your website. </p></article>]]></description>
+            <link>https://thegrid.ai/finn-koehler/give-it-a-try/index.html</link>
             <guid isPermaLink="false">14525ac7-a8b5-40c8-97ee-32bc07fd562a</guid>
-            <pubDate>Tue, 05 Apr 2016 11:18:18 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 11:28:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
